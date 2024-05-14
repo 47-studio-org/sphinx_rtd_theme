@@ -10,7 +10,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "bourbon": "~4.3",
+    "bourbon": "~7.2.0",
     "bourbon-neat": "~1.9",
     "copy-webpack-plugin": "^6.0.0",
     "css-loader": "^4.0.0",
